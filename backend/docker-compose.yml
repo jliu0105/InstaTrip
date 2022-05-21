@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  InstaTrip.api:
+    image: ${DOCKER_REGISTRY-}InstaTrip
+    build:
+      context: .
+      dockerfile: InstaTrip.API/Dockerfile

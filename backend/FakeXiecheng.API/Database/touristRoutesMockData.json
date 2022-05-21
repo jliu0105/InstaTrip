@@ -1,0 +1,40 @@
+[
+  {
+    "id": "fb6d4f10-79ed-4aff-a915-4ce29dc9c7e1",
+    "title": "Trip title 1",
+    "description": "Trip description 1",
+    "originalPrice": 11999.99,
+    "discountPresent": 0.1,
+    "features": "<div class=\"bd\">Features 1</div>",
+    "fees": "<div class=\"bd\">Fees 1</div>",
+    "notes": "<div class=\"bd\">Notes 1</div>",
+    "rating": 3.5,
+    "travelDays": 8,
+    "tripType": 0,
+    "departureCity": 0
+  },
+  {
+    "id": "a1fd0bee-0afc-4586-96c8-f46b7c99d2a0",
+    "title": "Trip title 2",
+    "description": "Trip description 1",
+    "originalPrice": 799.98,
+    "discountPresent": 0.1,
+    "features": "<div class=\"bd\">Features 2</div>",
+    "fees": "<div class=\"bd\">Fees 2</div>",
+    "notes": "<div class=\"bd\">Notes 2</div>"
+  },
+  {
+    "id": "3ecbcd92-a9e0-45f7-9b29-e03272cb0862",
+    "title": "Trip title 3",
+    "description": "Trip description 3",
+    "originalPrice": 4599.9,
+    "discountPresent": 0.1,
+    "features": "<div class=\"bd\">Features 3</div>",
+    "fees": "<div class=\"bd\">Fees 3</div>",
+    "notes": "<div class=\"bd\">Notes 3</div>",
+    "rating": 5,
+    "travelDays": 4,
+    "tripType": 3,
+    "departureCity": 1
+  }
+]
