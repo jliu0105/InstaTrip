@@ -11,25 +11,25 @@ Built with ReactJS, TypeScript, Redux, Redis, HTML, CSS, Nginx, Ant Design, C#, 
 
 
 ## Features
-    * __User Authentication:__ Securely log in and manage user accounts with JWT.
-    * __Travel Package Catalog:__ Browse a wide range of travel packages.
-    * __E-commerce Functionality:__ Purchase desired travel packages through the platform.
-    * __MVC Design Pattern:__ Organized code using the Model-View-Controller design pattern for improved reusability, modularity, and testability.
-    * __Responsive UI:__ Modern and responsive user interface built with Ant Design.
+* __User Authentication:__ Securely log in and manage user accounts with JWT.
+* __Travel Package Catalog:__ Browse a wide range of travel packages.
+* __E-commerce Functionality:__ Purchase desired travel packages through the platform.
+* __MVC Design Pattern:__ Organized code using the Model-View-Controller design pattern for improved reusability, modularity, and testability.
+* __Responsive UI:__ Modern and responsive user interface built with Ant Design.
 ## Requirement
-    * Node.js
-    * .Net Core 3.1 or higher
-    * MySQL
-    * Docker
+* Node.js
+* .Net Core 3.1 or higher
+* MySQL
+* Docker
 ## Installation
 ```bash
 git clone https://github.com/jliu0105/InstaTrip.git
 ```
 ## Usage
-    * Register for an account or log in to an existing one.
-    * Browse the travel package catalog and filter packages as needed.
-    * Add desired packages to your cart.
-    * Complete the checkout process to secure your travel packages.
+* Register for an account or log in to an existing one.
+* Browse the travel package catalog and filter packages as needed.
+* Add desired packages to your cart.
+* Complete the checkout process to secure your travel packages.
 ## Contribution
 We welcome contributions from the community! If you're interested in contributing to this project, please follow these steps:
 
