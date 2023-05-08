@@ -1,5 +1,5 @@
-# Instatrip: E-commerce Platform for Travel Packages
-TravelPack is an e-commerce platform where users can explore and purchase various travel packages. The application uses JWT for user authentication and communication between services, front end, and back end. The MVC design pattern is implemented with ReactJS and .Net Core to improve code reusability, modularity, and testability.
+# InstaTrip: E-commerce Platform for Travel Packages
+InstaTrip is an e-commerce platform where users can explore and purchase various travel packages. The application uses JWT for user authentication and communication between services, front end, and back end. The MVC design pattern is implemented with ReactJS and .Net Core to improve code reusability, modularity, and testability.
 <br><br>
 Built with ReactJS, TypeScript, Redux, Redis, HTML, CSS, Nginx, Ant Design, C#, .Net Core, MySQL, and Docker.
 ## Table of Contents
